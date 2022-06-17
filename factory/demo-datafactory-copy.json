@@ -1,0 +1,9 @@
+{
+	"name": "demo-datafactory-copy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4b51b797-0d67-41ba-aed7-4944924da3a6",
+		"tenantId": "317d5406-6f4b-429e-a8fa-cfb14d14309d"
+	}
+}
